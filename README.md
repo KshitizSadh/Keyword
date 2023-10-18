@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Kshitiz sadh
-- 👀 I’m interested in Cloud Computing
+- 👀 I’m interested in Cloud Computing  
+- and cloud computing
 Here are some keywords 🗝️:
 # BASIC KEYWORDS
 1. **CISC** - Complex Instruction Set Computer- Closed source - intel, AMD
@@ -238,13 +239,14 @@ Here are some keywords 🗝️:
 LXC stands for Linux Containers. It's an open-source container platform that allows users to create and run multiple isolated Linux virtual environments (VEs) on a single control host. LXC uses a single Linux kernel to run these isolated systems, or containers. 
 
 50. **GreenField** vs **Brownfield Application**
+------
+|Greenfeild| Brownfeild |
+|----------|------------|
+|greenfield applications are applications that are not yet made or are in the early stages of development | brownfield applications are existing applications|  
+|Greenfield applications are new developments with no prior work done that poses constraints on the solution.|Brownfield applications are existing applications that utilize previously developed land to make better use of existing sites.|
 
-| Greenfield | Brownfield|
-|--------------|--------------|
-| greenfield applications are applications that are not yet made or are in the early stages of development | brownfield applications are existing applications |
-| Greenfield applications are new developments with no prior work done that poses constraints on the solution. | Brownfield applications are existing applications that utilize previously developed land to make better use of existing sites.  |
 
-51. **Web3 Decentralisation** - Web3 is a decentralized version of the internet that allows users to own their own data. It's also known as the decentralized web or the third generation of the internet. 
+51. **Web3.0 Decentralisation** - Web3.0 is a decentralized version of the internet that allows users to own their own data. It's also known as the decentralized web or the third generation of the internet. 
 - Blockchain, which is a decentralized digital ledger of transactions that uses cryptography to secure and verify each transaction
 - Decentralized applications (dApps), which are interconnected blockchain-based applications that enable users to interact with each other without the need for intermediaries
 Web3 is designed to be: 
@@ -330,3 +332,4 @@ TUN can tunnel data packets of varied nature, including:
 - Access standard pod networking and storage
 - Manage VMs using standard Kubernetes tools such as kubectl
 - Run full virtual machines on Kubernetes alongside regular containers
+----
